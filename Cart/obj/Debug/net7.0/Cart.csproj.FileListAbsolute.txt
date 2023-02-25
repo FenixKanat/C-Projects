@@ -1,0 +1,15 @@
+C:\Users\Fenix\IdeaProjects\Cart\bin\Debug\net7.0\Cart.exe
+C:\Users\Fenix\IdeaProjects\Cart\bin\Debug\net7.0\Cart.deps.json
+C:\Users\Fenix\IdeaProjects\Cart\bin\Debug\net7.0\Cart.runtimeconfig.json
+C:\Users\Fenix\IdeaProjects\Cart\bin\Debug\net7.0\Cart.dll
+C:\Users\Fenix\IdeaProjects\Cart\bin\Debug\net7.0\Cart.pdb
+C:\Users\Fenix\IdeaProjects\Cart\obj\Debug\net7.0\Cart.csproj.AssemblyReference.cache
+C:\Users\Fenix\IdeaProjects\Cart\obj\Debug\net7.0\Cart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fenix\IdeaProjects\Cart\obj\Debug\net7.0\Cart.AssemblyInfoInputs.cache
+C:\Users\Fenix\IdeaProjects\Cart\obj\Debug\net7.0\Cart.AssemblyInfo.cs
+C:\Users\Fenix\IdeaProjects\Cart\obj\Debug\net7.0\Cart.csproj.CoreCompileInputs.cache
+C:\Users\Fenix\IdeaProjects\Cart\obj\Debug\net7.0\Cart.dll
+C:\Users\Fenix\IdeaProjects\Cart\obj\Debug\net7.0\refint\Cart.dll
+C:\Users\Fenix\IdeaProjects\Cart\obj\Debug\net7.0\Cart.pdb
+C:\Users\Fenix\IdeaProjects\Cart\obj\Debug\net7.0\Cart.genruntimeconfig.cache
+C:\Users\Fenix\IdeaProjects\Cart\obj\Debug\net7.0\ref\Cart.dll
