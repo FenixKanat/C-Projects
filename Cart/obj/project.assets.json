@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Fenix\\IdeaProjects\\Cart\\Cart.csproj",
+      "projectUniqueName": "C:\\Users\\Fenix\\IdeaProjects\\C-Projects\\Cart\\Cart.csproj",
       "projectName": "Cart",
-      "projectPath": "C:\\Users\\Fenix\\IdeaProjects\\Cart\\Cart.csproj",
+      "projectPath": "C:\\Users\\Fenix\\IdeaProjects\\C-Projects\\Cart\\Cart.csproj",
       "packagesPath": "C:\\Users\\Fenix\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Fenix\\IdeaProjects\\Cart\\obj\\",
+      "outputPath": "C:\\Users\\Fenix\\IdeaProjects\\C-Projects\\Cart\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Fenix\\AppData\\Roaming\\NuGet\\NuGet.Config"
