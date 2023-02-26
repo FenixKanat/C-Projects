@@ -1,2 +1,8 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿
+public partial class MainProgram{
+static void Main(String [] args){
+FunFeatures fun = new FunFeatures();
+fun.Start();
+}
+
+}

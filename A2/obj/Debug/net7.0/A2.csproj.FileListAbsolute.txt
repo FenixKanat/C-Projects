@@ -1,0 +1,15 @@
+C:\Users\Fenix\IdeaProjects\C-Projects\A2\bin\Debug\net7.0\A2.exe
+C:\Users\Fenix\IdeaProjects\C-Projects\A2\bin\Debug\net7.0\A2.deps.json
+C:\Users\Fenix\IdeaProjects\C-Projects\A2\bin\Debug\net7.0\A2.runtimeconfig.json
+C:\Users\Fenix\IdeaProjects\C-Projects\A2\bin\Debug\net7.0\A2.dll
+C:\Users\Fenix\IdeaProjects\C-Projects\A2\bin\Debug\net7.0\A2.pdb
+C:\Users\Fenix\IdeaProjects\C-Projects\A2\obj\Debug\net7.0\A2.csproj.AssemblyReference.cache
+C:\Users\Fenix\IdeaProjects\C-Projects\A2\obj\Debug\net7.0\A2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fenix\IdeaProjects\C-Projects\A2\obj\Debug\net7.0\A2.AssemblyInfoInputs.cache
+C:\Users\Fenix\IdeaProjects\C-Projects\A2\obj\Debug\net7.0\A2.AssemblyInfo.cs
+C:\Users\Fenix\IdeaProjects\C-Projects\A2\obj\Debug\net7.0\A2.csproj.CoreCompileInputs.cache
+C:\Users\Fenix\IdeaProjects\C-Projects\A2\obj\Debug\net7.0\A2.dll
+C:\Users\Fenix\IdeaProjects\C-Projects\A2\obj\Debug\net7.0\refint\A2.dll
+C:\Users\Fenix\IdeaProjects\C-Projects\A2\obj\Debug\net7.0\A2.pdb
+C:\Users\Fenix\IdeaProjects\C-Projects\A2\obj\Debug\net7.0\A2.genruntimeconfig.cache
+C:\Users\Fenix\IdeaProjects\C-Projects\A2\obj\Debug\net7.0\ref\A2.dll
